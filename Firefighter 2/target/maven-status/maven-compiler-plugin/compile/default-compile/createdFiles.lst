@@ -1,0 +1,15 @@
+com\test\api\Building.class
+com\test\api\exceptions\InvalidDimensionException.class
+com\test\impls\FireStation.class
+com\test\firefighters\FireDispatchImpl.class
+com\test\impls\CityImpl.class
+com\test\api\City.class
+com\test\api\exceptions\FireproofBuildingException.class
+com\test\api\Firefighter.class
+com\test\api\exceptions\NoFireFoundException.class
+com\test\api\CityNode.class
+com\test\api\exceptions\OutOfCityBoundsException.class
+com\test\impls\BuildingImpl.class
+com\test\api\FireDispatch.class
+com\test\api\Pyromaniac.class
+com\test\firefighters\FirefighterImpl.class
